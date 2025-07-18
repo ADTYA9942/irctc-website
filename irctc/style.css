@@ -1,0 +1,87 @@
+        .container{
+            display: flex;
+            flex-wrap: wrap;
+    
+            margin-top: 1%;
+            gap: 15px;
+        }
+        button{
+            height: 35px;
+            margin-left: 2%;
+            padding: 2px 4px;
+        }
+        .ir{
+            margin-left: 2.5%;
+        }
+        .box{
+            gap: 8px;
+            display: flex;
+            margin-top: 0%;
+        }
+        .sbox{
+            display: flex;
+            flex-direction: row;
+            margin-left: 15%;
+            gap: 0px;
+            margin-top: -3%;
+        }
+        h1{
+            color: #213d77;
+            font-size: 270%;
+            margin-left: 65%;
+        }
+        .table{
+            display: flex;
+            margin-left: 3%;
+            gap: 10px;
+        
+                }
+            
+        body{
+            margin: 0;
+            padding: 0;
+            margin-top: -15px;
+            background-image: url('https://images.livemint.com/img/2023/02/15/1600x900/Vande_Bharat__1676446328347_1676446328597_1676446328597.jpg');height: 80%;
+        
+        }
+        header{
+            background-color: rgb(255, 255, 255);
+            width: 100%;
+        }
+        .daba{
+            width: 400px;
+            padding: 20px;
+            background-color: white;
+            margin-left: 2cm;
+            width: 17.2cm;
+            height: 9.5cm;
+        }
+        h2{
+            margin-left: 34%;
+            font-size: 390;
+        }
+        .forms{
+            display: flex;
+            flex-direction: column;
+           width: 50%;
+           color: #213d77;
+           
+
+        }
+        .idk{
+            display: flex;
+            flex-direction: row;
+        }
+        .orange{
+            display: flex;
+            flex-direction: row;
+            gap: 20px;        
+        }
+        .DABA2{
+                        width: 400px;
+            padding: 20px;
+            background-color: white;
+            margin-left: 2cm;
+            width: 17.2cm;
+            height: 1.3cm;
+        }
